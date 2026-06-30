@@ -1,0 +1,6 @@
+{
+  "name": "cshealtched-ems-platform",
+  "version": "1.0.0",
+  "description": "CSHealthED EMS Training Platform",
+  "engines": { "node": ">=18" }
+}
